@@ -51,6 +51,30 @@ The analysis includes:
 - Dip test
 - Gaussian-copula null simulation
 
+## Figures
+
+### PCA Scree Plot
+![PCA Scree Plot](figures/pca_scree.png)
+
+### Silhouette Score
+![Silhouette Score](figures/silhouette_vs_k.png)
+
+### PCA Cluster Scatter
+![Cluster Scatter](figures/cluster_scatter_pca.png)
+
+### Cluster Method Composition
+![Cluster Method Composition](figures/cluster_method_composition.png)
+
+### Bootstrap Stability
+![Bootstrap Stability](figures/bootstrap_stability.png)
+
+### Null Distribution
+![Null Distribution](figures/null_distribution.png)
+
+### Separation Axis KDE
+![Separation Axis KDE](figures/separation_axis_kde.png)
+
+
 ## Main Notebook
 
 The main analysis is contained in:
