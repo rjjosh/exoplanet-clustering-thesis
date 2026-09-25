@@ -1,8 +1,6 @@
-# exoplanet-clustering-thesis
+# Exoplanet Clustering Thesis
 Machine learning analysis of exoplanet population structure and discovery bias using NASA Exoplanet Archive data.
 
-
-# Exoplanet Clustering Thesis
 
 This repository contains the code and analysis used for my Master's thesis on exoplanet population structure and discovery-method bias using data from the NASA Exoplanet Archive.
 
